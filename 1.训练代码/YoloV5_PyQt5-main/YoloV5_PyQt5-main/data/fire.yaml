@@ -1,0 +1,7 @@
+train: C:/Users/14680/Desktop/person_fire_water/person_fire_water/train/images
+val: C:/Users/14680/Desktop/person_fire_water/person_fire_water/val/images
+
+# number of classes
+nc: 3
+
+names: ['fire','person','flow']
